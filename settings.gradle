@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Android Sorteio Numeros 1-10"
