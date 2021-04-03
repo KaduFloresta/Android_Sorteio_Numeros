@@ -2,6 +2,7 @@
 package com.example1.androidsorteionumeros1_10;
 
 // Carrega os recursos utilizados
+
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
@@ -20,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void sortearNumero(View view){
+    public void sortearNumero(View view) {
         // Acessando o componente pelo ID
         TextView numero = findViewById(R.id.textoResultado);
 
@@ -31,3 +32,6 @@ public class MainActivity extends AppCompatActivity {
         numero.setText("Número Sorteado: " + resultado);
     }
 }
+
+
+
