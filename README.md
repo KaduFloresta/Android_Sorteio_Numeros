@@ -26,3 +26,10 @@
 
 # Criação de Aplicativos - Android Sorteio de Numeros
 Aplicativo para sorteio de número de 1 a 10 utilizando o Random.
+
+---
+
+ # Print do Aplicativo
+ 
+ <img src="https://github.com/KaduFloresta/Android_Sorteio_Numeros/blob/master/app/src/main/res/drawable/print.png"/>
+
