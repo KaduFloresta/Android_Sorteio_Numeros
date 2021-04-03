@@ -31,5 +31,5 @@ Aplicativo para sorteio de número de 1 a 10 utilizando o Random.
 
  # Print do Aplicativo
  
- <img src="https://github.com/KaduFloresta/Android_Sorteio_Numeros/blob/master/app/src/main/res/drawable/print.png"/>
+ <img src="https://github.com/KaduFloresta/Android_Sorteio_Numeros/blob/master/app/src/main/res/drawable/print3.png" alt="drawing" width="300"/><img src="https://github.com/KaduFloresta/Android_Sorteio_Numeros/blob/master/app/src/main/res/drawable/print2.png" alt="drawing" width="550"/>
 
